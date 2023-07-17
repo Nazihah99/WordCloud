@@ -1,6 +1,9 @@
 # WordCloud: The Comparison of Songs Theme
 ## Description
-This project focuses on generating WordCloud visualizations for selected song lyrics. The goal is to analyze the frequency and importance of words in the lyrics and visually represent them using WordClouds. The three chosen songs for this project are "Thank You, Next" by Ariana Grande, "Believer" by Imagine Dragons, and "Stronger (What Doesn't Kill You)" by Kelly Clarkson.
+This project focuses on generating WordCloud visualizations for selected song lyrics of different themes. The goal is to analyze the frequency and importance of words in the lyrics and visually represent them using WordClouds. The three chosen songs for this project are "Thank You, Next" by Ariana Grande, "Believer" by Imagine Dragons, and "Stronger (What Doesn't Kill You)" by Kelly Clarkson.
+
+## Data
+The song lyrics were extracted from various online sources during the research phase of this project. After collection, the lyrics were saved as separate CSV (Comma-Separated Values) files for each song. Each CSV file contains the lyrics of a specific song, organized in rows and columns. Please note that the CSV files do not include any personal or sensitive information. They are solely used for the purpose of data analysis within this project.
 
 ## Motivation
 The introduction of legal music streaming services like Spotify, which allow offline listening, has significantly impacted the music industry. These services have gradually increased the incomes of musicians and inspired them to write more successful songs, especially when listeners can connect with the music on a deeper level. Lyrical subjects play a crucial role in how music is sung and provide insights into the songwriter's state of mind from Tunedly on Popular Lyrical Themes Used in Songwriting.
